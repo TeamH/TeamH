@@ -17,10 +17,11 @@ Over the years, I’ve shipped **iOS and Android** apps from scratch to millions
 
 | Area | Tools & Frameworks |
 |------|--------------------|
-| **Languages** | Swift, SwiftUI, Kotlin, Java, Objective-C |
+| **Languages** | Swift, SwiftUI, Kotlin, Java, Ruby, Python, Objective-C |
 | **Mobile** | SwiftUI, UIKit, Jetpack Compose, AndroidX |
-| **CI/CD** | GitHub Actions, Fastlane, Jenkins, CodeMagic, Bitrise |
-| **Testing** | XCTest, Espresso, JUnit, MockK |
+| **CI/CD** | GitHub Actions, Fastlane, Jenkins, CodeMagic, Bitrise, CircleCI |
+| **Testing** | XCTest, Espresso, JUnit, Appium |
+| **AI** | Claude, Cursor, Github Copilot, StackAI |
 | **Other** | Gradle, Swift Package Manager, Xcode Cloud, Firebase |
 
 ---
@@ -47,10 +48,10 @@ Over the years, I’ve shipped **iOS and Android** apps from scratch to millions
 ---
 
 ### ☕ Fun Stuff
-When I’m not debugging mobile builds, you’ll probably find me:
+When I’m not debugging production builds, you’ll probably find me:
 - Tweaking automation scripts just to shave off 3 seconds  
 - Re-architecting side projects for fun  
-- Arguing about tabs vs spaces (just kidding… mostly)
+- Debating why I dislike for-loops in data manipulation
 
 ---
 
